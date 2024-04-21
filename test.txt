@@ -1,0 +1,3 @@
+    <!-- jinja templating engine yang mengharuskan kita ... -->
+    <!-- CSR = client side rendering = -->
+    <!-- SSR = server side rendering = -->
